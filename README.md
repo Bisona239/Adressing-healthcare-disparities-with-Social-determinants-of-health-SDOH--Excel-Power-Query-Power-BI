@@ -11,11 +11,21 @@ Enable collaboration among healthcare providers, policymakers, and analysts thro
 
 ## Procedure
 ## Data Wrangling and Transformation
-## Data Visualisation and Storytelling
+Excel Power Query was used to import the four datasets, clean them, and merge them for analysis.
+<img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/00f12420-f892-4ff8-8187-34f8b94f1c3b" />
+
+
+## Data Visualisation and Storytelling 
+The merged data was named SODH and imported to Power BI for visualisation and storytelling
+
 ## Data-Driven Decision Making
+
 ## Project Management and Collaboration
+
 ## Automation and Efficiency
+
 ## Ethical Considerations
+
 ## Significance of the project
 A project focused on addressing healthcare disparities through the lens of Social Determinants of Health (SDOH) is highly significant for artificial intelligence, epidemiology, and health science, as it enables a more comprehensive understanding of how social, economic, and environmental factors influence health outcomes and disease patterns. 
 
