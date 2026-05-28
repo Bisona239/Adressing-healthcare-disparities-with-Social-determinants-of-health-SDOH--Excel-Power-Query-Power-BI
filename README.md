@@ -11,15 +11,23 @@ Enable collaboration among healthcare providers, policymakers, and analysts thro
 
 ## Procedure
 ## Data Wrangling and Transformation
-Excel Power Query was used to import the four datasets, clean them, and merge them for analysis.
-<img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/00f12420-f892-4ff8-8187-34f8b94f1c3b" />
+Excel Power Query was used to import the four datasets, handle missing values, rename column variables, and merge tables on ID for analysis.
+<img width="640" height="320" alt="image" src="https://github.com/user-attachments/assets/00f12420-f892-4ff8-8187-34f8b94f1c3b" />
+
+
+One column was created, which put the ages into four groups
+<img width="640" height="320" alt="image" src="https://github.com/user-attachments/assets/c6e8bb98-ff92-4aa8-9c1a-600a0304d46b" />
+
 
 
 ## Data Visualisation and Storytelling 
-The merged data was named SODH and imported to Power BI for visualisation and storytelling
+The merged data was named SODH and imported into Power BI to build the dashboard
 
 ## Data-Driven Decision Making
-
+Three KPIs for this study, as follows:- 
+1. Preventive care utilisation rate (%)
+2. Health Disparities Index
+3. Health Equity Score
 ## Project Management and Collaboration
 
 ## Automation and Efficiency
