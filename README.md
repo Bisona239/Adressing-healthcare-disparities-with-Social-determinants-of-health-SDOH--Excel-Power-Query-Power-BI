@@ -28,7 +28,13 @@ Three KPIs for this study, as follows:-
 1. Preventive care utilisation rate (%)
 2. Health Disparities Index
 3. Health Equity Score
+
+<img width="640" height="320" alt="image" src="https://github.com/user-attachments/assets/ffa0b96b-13e4-468b-9fb2-7b4255494ce6" />
+
 ## Project Management and Collaboration
+
+
+
 
 ## Automation and Efficiency
 
