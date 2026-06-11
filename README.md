@@ -11,7 +11,7 @@ Enable collaboration among healthcare providers, policymakers, and analysts thro
 
 ## Procedure
 ## Data Wrangling and Transformation
-Excel Power Query was used to import the four datasets, handle missing values, rename column variables, and merge tables on ID for analysis.
+Excel Power Query was used to import the four datasets, handle missing values, rename column variables, and join tables on ID for analysis.
 <img width="640" height="320" alt="image" src="https://github.com/user-attachments/assets/00f12420-f892-4ff8-8187-34f8b94f1c3b" />
 
 
@@ -21,19 +21,26 @@ One column was created, which put the ages into four groups
 
 
 ## Data Visualisation and Storytelling 
-The merged data was named SODH and imported into Power BI to build the dashboard
+The merged data was named SODH and imported into Power BI.
+The plots below show different determinants of health compared with each other. It is not part of the project requirement, but to visualise the data.
+
+<img width="325" height="260" alt="image" src="https://github.com/user-attachments/assets/e2922a50-0872-4e39-8bc3-61d639f7c826" />
+
+
+<img width="327" height="287" alt="image" src="https://github.com/user-attachments/assets/966f3b84-62ab-444b-a741-f9ed1671bb0b" />
+
+<img width="329" height="262" alt="image" src="https://github.com/user-attachments/assets/f4b0e830-a320-4f58-83a5-3586cecd3300" />
+
 
 ## Data-Driven Decision Making
-Three KPIs for this study, as follows:- 
-1. Preventive care utilisation rate (%)
-2. Health Disparities Index
+Three KPIs for this project were evaluated, all measuring healthcare disparities across different social health determinants:- 
+1. Preventive care utilisation rate (%), This was calculated as 86% using Dax functions
+2. Hospital admissions rate (%), this was calculated as 62.78% from the dataset.
 3. Health Equity Score
 
 <img width="640" height="320" alt="image" src="https://github.com/user-attachments/assets/ffa0b96b-13e4-468b-9fb2-7b4255494ce6" />
 
 ## Project Management and Collaboration
-
-
 
 
 ## Automation and Efficiency
