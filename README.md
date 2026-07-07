@@ -27,22 +27,21 @@ One column was created, which put the ages into four groups
 The merged data was named SODH and imported into Power BI.
 The plots below show different determinants of health compared with each other. It is not part of the project requirement, but to visualise the data.
 
-<img width="325" height="260" alt="image" src="https://github.com/user-attachments/assets/e2922a50-0872-4e39-8bc3-61d639f7c826" />
+<img width="1325" height="760" alt="image" src="https://github.com/user-attachments/assets/e2922a50-0872-4e39-8bc3-61d639f7c826" />
 
 
-<img width="327" height="287" alt="image" src="https://github.com/user-attachments/assets/966f3b84-62ab-444b-a741-f9ed1671bb0b" />
+<img width="1327" height="787" alt="image" src="https://github.com/user-attachments/assets/966f3b84-62ab-444b-a741-f9ed1671bb0b" />
 
-<img width="329" height="262" alt="image" src="https://github.com/user-attachments/assets/f4b0e830-a320-4f58-83a5-3586cecd3300" />
+<img width="1329" height="762" alt="image" src="https://github.com/user-attachments/assets/f4b0e830-a320-4f58-83a5-3586cecd3300" />
 
 
 ## Data-Driven Decision Making
 Three KPIs for this project were evaluated, all measuring healthcare disparities across different social health determinants:- 
 1. Preventive care utilisation rate (%), This was calculated as 86% using Dax functions
 2. Hospital admissions rate (%), this was calculated as 62.78% from the dataset.
-3. Health Equity Score
 
-<img width="1264" height="721" alt="image" src="https://github.com/user-attachments/assets/82dab0a3-cad1-4ae9-be87-9c915af7bfe9" />
-
+<img width="1257" height="716" alt="image" src="https://github.com/user-attachments/assets/2eaeec7b-f50d-40e9-8b9f-1a8f3cde6a4a" />
+  
 
 
 ## Project Management and Collaboration
