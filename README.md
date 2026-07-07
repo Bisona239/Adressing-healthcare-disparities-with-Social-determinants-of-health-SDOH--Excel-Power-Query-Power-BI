@@ -27,12 +27,12 @@ One column was created, which put the ages into four groups
 The merged data was named SODH and imported into Power BI.
 The plots below show different determinants of health compared with each other. It is not part of the project requirement, but to visualise the data.
 
-<img width="325" height="760" alt="image" src="https://github.com/user-attachments/assets/e2922a50-0872-4e39-8bc3-61d639f7c826" />
+<img width="325" height="460" alt="image" src="https://github.com/user-attachments/assets/e2922a50-0872-4e39-8bc3-61d639f7c826" />
 
 
-<img width="327" height="787" alt="image" src="https://github.com/user-attachments/assets/966f3b84-62ab-444b-a741-f9ed1671bb0b" />
+<img width="327" height="487" alt="image" src="https://github.com/user-attachments/assets/966f3b84-62ab-444b-a741-f9ed1671bb0b" />
 
-<img width="329" height="762" alt="image" src="https://github.com/user-attachments/assets/f4b0e830-a320-4f58-83a5-3586cecd3300" />
+<img width="329" height="462" alt="image" src="https://github.com/user-attachments/assets/f4b0e830-a320-4f58-83a5-3586cecd3300" />
 
 
 ## Data-Driven Decision Making
