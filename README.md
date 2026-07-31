@@ -22,7 +22,6 @@ One column was created, which put the ages into four groups
 <img width="640" height="320" alt="image" src="https://github.com/user-attachments/assets/c6e8bb98-ff92-4aa8-9c1a-600a0304d46b" />
 
 
-
 ## Data Visualisation and Storytelling 
 The merged data was named SODH and imported into Power BI.
 The plots below show different determinants of health compared with each other. It is not part of the project requirement, but to visualise the data.
@@ -37,7 +36,7 @@ The plots below show different determinants of health compared with each other. 
 
 ## Data-Driven Decision Making
 Three KPIs for this project were evaluated, all measuring healthcare disparities across different social health determinants:- 
-1. Preventive care utilisation rate (%), This was calculated as 86% using Dax functions
+1. Preventive care utilisation rate (%), this was calculated as 86% using Dax functions
 2. Hospital admissions rate (%), this was calculated as 62.78% from the dataset.
 
 <img width="1257" height="716" alt="image" src="https://github.com/user-attachments/assets/2eaeec7b-f50d-40e9-8b9f-1a8f3cde6a4a" />
