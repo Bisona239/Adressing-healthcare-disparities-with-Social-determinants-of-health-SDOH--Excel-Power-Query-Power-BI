@@ -1,6 +1,6 @@
 # Addressing healthcare disparities with social determinants of health (SDOH)
 
-This data-driven health science project uses a dataset with several social determinants of health, such as income level, educational status, and gender, to evaluate healthcare disparities within a community in The Gambia. It is a health economics project that demonstrates the impact of efficient healthcare in a community. 
+This data-driven health science project uses a dataset with several social determinants of health, such as income level, educational status, and gender, to evaluate healthcare disparities within a community in The Gambia. It demonstrates the health economics impact of efficient community healthcare. 
 
 
 ## Objectives of the project
