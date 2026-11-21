@@ -37,18 +37,10 @@ The plots below show different determinants of health compared with each other. 
 ## Data-Driven Decision Making
 Three KPIs for this project were evaluated, all measuring healthcare disparities across different social health determinants:- 
 1. Preventive care utilisation rate (%), this was calculated as 86% using Dax functions
-2. Hospital admissions rate (%), this was calculated as 62.78% from the dataset.
+2. Hospital admissions rate (%), which was calculated as 62.78% from the dataset.
 
 <img width="1257" height="716" alt="image" src="https://github.com/user-attachments/assets/2eaeec7b-f50d-40e9-8b9f-1a8f3cde6a4a" />
-  
 
-
-## Project Management and Collaboration
-
-
-## Automation and Efficiency
-
-## Ethical Considerations
 
 ## Significance of the project
 A project focused on addressing healthcare disparities through the lens of Social Determinants of Health (SDOH) is highly significant for artificial intelligence, epidemiology, and health science, as it enables a more comprehensive understanding of how social, economic, and environmental factors influence health outcomes and disease patterns. 
@@ -57,6 +49,8 @@ In AI, integrating SDOH data improves predictive accuracy, reduces algorithmic b
 
 In epidemiology, the project enhances disease surveillance, risk stratification, and understanding of population-level health inequalities by examining how factors such as income, housing, education, and healthcare access contribute to disease transmission and health disparities. 
 
+## Author
+Bisona Honora
 In health science, the project promotes a holistic and preventive approach to healthcare by addressing the root causes of poor health outcomes, improving healthcare accessibility, supporting evidence-based public health interventions, and advancing health equity. 
 
 Overall, the integration of SDOH into AI and public health research contributes to precision public health, informed healthcare policy, and improved population health outcomes.
